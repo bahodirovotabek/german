@@ -1,0 +1,6 @@
+{
+  "name": "Trilingual Dictionary: English · Uzbek · German",
+  "description": "Offline 10,000+ word trilingual dictionary with voice pronunciation, instant search, German grammar genders, favorites, flashcards, and retention quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
